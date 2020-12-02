@@ -1,0 +1,88 @@
+body {
+  font-family: "Montserrat";
+} 
+ 
+/* .logo {
+  width: 7%;
+  height: 7%;
+}  */
+
+ #title {
+  /* background: #ffbf00; */
+  color: #fff;
+}
+
+.cover {
+  background: #2b2d34 url(https://images.wallpapersden.com/image/download/colorful-neon-bubbles_a2dtaWmUmZqaraWkpJRmbmdlrWZlbWU.jpg) center;
+  background-size: cover;
+  min-height: 50rem;
+  height: auto;
+  border-radius: 0;
+  width: 100%;
+  color: #fff;
+  padding-top: 1rem;
+}
+
+
+
+
+/* Navigation Bar */
+.navbar {
+  padding: .5rem 10rem !important;
+}
+
+.navbar-trans{
+  background: transparent;
+}
+
+.navbar-brand {
+  display: inline-block;
+  padding: 0rem !important;
+  margin: 0rem !important;
+  font-size: 2rem !important;
+  line-height: inherit;
+  white-space: nowrap;
+}
+
+.nav-item {
+  padding: 0 ;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Monserrat-Light";
+  margin: 1rem 0.5rem;
+}
+
+.nav-link:hover {
+  background-color: #00acfc;
+}
+
+#title .jumbotron{
+  padding: 0;
+}
+
+.bg-img{
+height:40rem;
+width: 100%;
+}
+
+/* Courses */
+#courses .jumbotron{
+  margin: 5% 10%;
+  /* background-image: url("https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg");
+  background-color:rgba(255,255,255,0.25); */
+  background-size: cover;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), 
+  url(https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg);
+}
+
+
+
+.card-description{
+margin:1rem;
+}
+
+.card-img{
+  height:15rem;
+}
