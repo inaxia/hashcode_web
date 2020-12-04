@@ -1,5 +1,6 @@
 body {
   font-family: "Montserrat";
+  background-color: #282a34 !important;
 } 
  
 /* .logo {
@@ -69,15 +70,20 @@ width: 100%;
 
 /* Courses */
 #courses .jumbotron{
-  margin: 5% 10%;
+  margin: 1% 10%;
   /* background-image: url("https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg");
   background-color:rgba(255,255,255,0.25); */
   background-size: cover;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), 
-  url(https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg);
+  background-color: rgba(0,0,0,0) !important;
+  /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), 
+  url(https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg); */
 }
 
-
+/* cards */
+.card{
+  background-color: #3C3F51 !important;
+  color:#fff;
+}
 
 .card-description{
 margin:1rem;
@@ -85,4 +91,85 @@ margin:1rem;
 
 .card-img{
   height:15rem;
+  padding: 1rem 0;
+  /* border-radius: 40px !important; */
+  border-radius: calc(2rem - 25px) !important;
 }
+
+/* modals */
+.modal-dialog{
+  overflow-y: initial !important;
+}
+
+.modal-header, .modal-footer{
+background-color: #282A34;
+}
+
+.modal-body{
+  height: 20rem !important;
+  overflow-y: auto;
+  background-color: #282A34;
+}
+
+.modal-body .list-group-item{
+  background-color: #E2336B;
+  color:#fff;
+}
+
+.modal .list-group-item:hover{
+  background-color: #FCAC46;
+  color:#fff;
+}
+
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(200,200,200,0.5);
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color:#fff;
+  -webkit-box-shadow: inset 0 0 6px rgba(90,90,90,0.7);
+}
+
+
+
+
+
+/* footer */
+#footer {
+  padding: 2rem 5rem 2rem;
+  background: #000;
+}
+
+.footer-description {
+  margin-bottom: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+}
+
+.fa {
+  color: #fff;
+}
+
+.footer-description hr {
+  border-color: #fff;
+}
+
+ul.text-center{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.list-inline-item {
+  width: 2rem;
+}
+
+
+
