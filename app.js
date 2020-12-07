@@ -12,21 +12,27 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 app.set('view engine', 'ejs');
 
-const { cpplist, videolinklist } = require('./list.js')
+const { listData, videolinklist, hreftag } = require('./list.js')
+
+let count = 0;
+
 
 app.get("/", function(req ,res){
     // res.sendFile(__dirname + "/index.html");
     
+    
     var linksData = [""];
-            
         
-    res.render("index",{videoListData: cpplist.listData, hrefTag: cpplist.hreftag});
+    res.render("index",{videoListData: listData, hrefTag: hreftag, videoList: videolinklist, Count: count});
 });
 
 app.get("/video",function(req, res){
     const { cppvideolink } = require('./list.js')
-    res.render("video",{listlink: videolinklist})
-   
+    // for( var i=0;i<listData.length;i++){    
+
+    res.render("video",{listlink: videolinklist,Count: count })
+        
+    // }    
 });
 
 app.listen(process.env.PORT || 3000, function(){ //we write process.env.PORT so that heroku defines a port for us

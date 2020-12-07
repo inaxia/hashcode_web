@@ -1,6 +1,7 @@
 body {
   font-family: "Montserrat";
   background-color: #282a34 !important;
+  text-align: center;
 } 
  
 /* .logo {
@@ -21,9 +22,13 @@ body {
   border-radius: 0;
   width: 100%;
   color: #fff;
-  padding-top: 1rem;
 }
 
+.namaste{
+  width:20rem;
+  padding:1rem;
+  margin-left: 40%;
+}
 
 
 
@@ -71,13 +76,13 @@ width: 100%;
 /* Courses */
 #courses .jumbotron{
   margin: 1% 10%;
-  /* background-image: url("https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg");
-  background-color:rgba(255,255,255,0.25); */
   background-size: cover;
   background-color: rgba(0,0,0,0) !important;
-  /* background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), 
-  url(https://image.freepik.com/free-photo/abstract-technology-binary-code-background_34629-592.jpg); */
-}
+  }
+
+  #courses .jumbotron h1{
+  color:#fff;
+  }
 
 /* cards */
 .card{
@@ -169,6 +174,41 @@ ul.text-center{
 
 .list-inline-item {
   width: 2rem;
+}
+
+
+
+
+/* DEMO-SPECIFIC STYLES */
+.typewriter h1 {
+  color: #fff;
+  font-family: monospace;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid orange; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 5rem;
+  }
+
+.typewriter{
+  margin: 10% 10% 0;  
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
 }
 
 

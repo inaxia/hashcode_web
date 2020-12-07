@@ -1,15 +1,36 @@
-var cpplist = {listData: ["Introduction to C++","VS Code installation for C++",
-                "Data Types","Input/Output in C++",
-                "If/else statement in C++","Loops in C++",
-                "Break and Continue statement in C++","Switch Case in C++",
-                "Operators in C++","Awesome Pattern Question-1",
-                "Awesome Pattern Question-2","Awesome Pattern Question-3",
-                "Awesome Pattern Question-4","Awesome Pattern Question-5",
-                "Awesome Pattern Question-6","Awesome Pattern Question-7",
-                "Awesome Pattern Question-8","Awesome Pattern Question-9"],
-                hreftag: "video"};
+var listData=  [
+    'Introduction to C++',
+    'Data Types & Type Modifiers',
+    'Input/Output',
+    'If/else statement',
+    'Introduction to loops',
+    'Break & continue statement',
+    'Switch-case statement',
+    'Operators',
+    'Pattern questions: 1',
+    'Pattern questions: 2',
+    'Binary number system',
+    'Reverse a number',
+    'Functions in C++',
+  ];
+                
+                
+var hreftag= "video"
+
+
 var videolinklist = ["https://www.youtube.com/embed/z9bZufPHFLU", 
-                    "https://www.youtube.com/embed/0yn7irrHzM8"]
-module.exports = {cpplist, videolinklist};
+"https://www.youtube.com/embed/cnT1oW5_ePM","https://www.youtube.com/embed/7dPdMtBX1d8",
+"https://www.youtube.com/embed/cyB3HNlQyjY","https://www.youtube.com/embed/IlIn_D1RT7M",
+"https://www.youtube.com/embed/Stf7KBiA1vs","https://www.youtube.com/embed/G80-j_xnE_8",
+"https://www.youtube.com/embed/JBgZxnAj4hg","https://www.youtube.com/embed/LfgAOZ1kKMw",
+"https://www.youtube.com/embed/k9OlCJFy5yo","https://www.youtube.com/embed/QIyugGzih4k",
+"https://www.youtube.com/embed/6TzUHrAXytM","https://www.youtube.com/embed/83KtncYgHYQ"]
+
+
+
+
+
+
+module.exports = {listData, videolinklist, hreftag};
 
 
