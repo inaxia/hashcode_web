@@ -91,15 +91,27 @@ width: 100%;
 }
 
 .card-description{
-margin:1rem;
+  margin:1%;
+  padding:0;
 }
 
 .card-img{
   height:15rem;
   padding: 1rem 0;
   /* border-radius: 40px !important; */
-  border-radius: calc(2rem - 25px) !important;
+  /* border-radius: calc(2rem - 25px) !important; */
 }
+
+/* card-buttons */
+/* .course-btn{
+  text-align:center;
+} */
+
+/* .cdgrnd-btn{
+  float:center;
+} */
+
+
 
 /* modals */
 .modal-dialog{
@@ -137,7 +149,7 @@ background-color: #282A34;
 
 ::-webkit-scrollbar-thumb {
   border-radius: 10px;
-  background-color:#fff;
+  background-color:rgba(250,250,250,0.3);
   -webkit-box-shadow: inset 0 0 6px rgba(90,90,90,0.7);
 }
 
@@ -155,7 +167,7 @@ background-color: #282A34;
   margin-bottom: 0;
   left: 0;
   bottom: 0;
-  width: 100%;
+  width: 100%; 
   color: #fff;
 }
 
@@ -211,5 +223,17 @@ ul.text-center{
   50% { border-color: orange }
 }
 
+/* The heart of the matter */
+.testimonial-group > .row {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.testimonial-group > .row > .col-3 {
+  display: inline-block;
+}
 
-
+/* Decorations */
+.col-3 {
+  color: #fff; 
+    }

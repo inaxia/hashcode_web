@@ -18,11 +18,7 @@ let count = 0;
 
 
 app.get("/", function(req ,res){
-    // res.sendFile(__dirname + "/index.html");
     
-    
-    var linksData = [""];
-        
     res.render("index",{videoListData: listData, hrefTag: hreftag, videoList: videolinklist, Count: count});
 });
 
