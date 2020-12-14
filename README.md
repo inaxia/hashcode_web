@@ -22,3 +22,6 @@ You can change the port address in the app.js
 
 
 If this doesn't work for you, then check if you have express installed in your system.
+
+Join us on Gitter:<br>
+[![Gitter](https://badges.gitter.im/inaxia-group/hashcode-web.svg)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
