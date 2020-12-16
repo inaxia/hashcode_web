@@ -24,8 +24,8 @@ We got the inspiration of this idea with the help of our fellow friends who want
 [![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
 [![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)
 
-
 ## Installation
+**You need to do changes only in `develop` branch**<br>
 (Make sure you have **Node/Nodemon** & **Express** installed)
 1. Fork this repo
 2. Clone the forked repo
@@ -34,7 +34,7 @@ We got the inspiration of this idea with the help of our fellow friends who want
     - `node app.js` -> if you have **Node**
     - `nodemon app.js` -> if you have **Nodemon**
     - You'll get a port_number
-5. Open any browser, in a new tab enter a url `https://localhost:<port_number>` like this: `http://localhost:3000/`
+5. Open any browser, in new tab enter a url `https://localhost:<port_number>/` like `http://localhost:3000/`
 
 
 ## Visual
