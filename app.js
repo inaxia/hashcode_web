@@ -12,24 +12,25 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 app.set('view engine', 'ejs');
 
-const { listData, videolinklist, hreftag } = require('./list.js')
-
+const { listData, videolinklist, hreftag, listDatajavascript, videolinklistjavascript} = require('./list.js')
+c
 let count = 0;
 
 
 app.get("/", function(req ,res){
     
-    res.render("index",{videoListData: listData, hrefTag: hreftag, videoList: videolinklist, Count: count});
+    res.render("index",{videoListData: listData, hrefTag: hreftag, videoList: videolinklist, videoListDatajavascript: listDatajavascript, videoListjavascript: videolinklistjavascript, Count: count});
 });
+
 
 app.get("/video",function(req, res){
     const { cppvideolink } = require('./list.js')
     // for( var i=0;i<listData.length;i++){    
+    res.render("video",{listlink: videolinklist, listlinkjavascript: videolinklistjavascript, Count:count });
 
-    res.render("video",{listlink: videolinklist,Count: count })
-        
     // }    
 });
+
 
 app.listen(process.env.PORT || 3000, function(){ //we write process.env.PORT so that heroku defines a port for us
     console.log("Server started on port 3000")
