@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({extended: true}));
 app.set('view engine', 'ejs');
 
 const { listData, videolinklist, hreftag, listDatajavascript, videolinklistjavascript} = require('./list.js')
-c
+
 let count = 0;
 
 
