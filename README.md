@@ -9,7 +9,7 @@
 [![Gitter](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
-## Description
+## About the project
 We got the inspiration of this idea with the help of our fellow friends who wanted to have good knowledge as well as relevant skills in different **Programming languages** and **frameworks**. They wanted a single platform to access the **best resources** available in the internet, so we came up with an idea to build this platform.
 
 **HashCode** is a web and app based platform where the we provide the **best-handpicked courses** from the internet at one place of different branches. Students who will use the platform can view **various courses** and test their knowledge.
