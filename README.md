@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=00BFF" alt="website title image"></a>
+    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=00BFFF" alt="website title image"></a>
     <h2 align="center">discover best courses for the best  learning</h2>
 </p>
 
@@ -99,13 +99,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
  ### Project Mentor
-<a href="https://github.com/inaxia"><img src="https://avatars1.githubusercontent.com/u/73075856?s=200&v=4" width=150px height=150px /></a>    
-  
- Thank you to everyone who contributed ✨💥
+<a href="https://github.com/Nishant2907"><img src="https://avatars3.githubusercontent.com/u/59792198?s=400&u=2eed493272e44a3ae85a8004355f38148edcec51&v=4" width=150px height=150px /></a>    
 
 
 ## Support
 ![built with love](https://forthebadge.com/images/badges/built-with-love.svg)<br>
 **If you like our project, don't forget to give it a ⭐**
+Thank you to everyone who contributed ✨💥
 
 #### All the Best!🥇
