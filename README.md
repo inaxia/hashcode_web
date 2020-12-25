@@ -6,8 +6,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
 [![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
-![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web)  
-![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web)
+[![GitHub issues](https://img.shields.io/github/issues-closed/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
+
+![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for -the-badge)  
+![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web?style=for-the-badge)
 [![Gitter](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Visit project : http://hashcode-web.herokuapp.com/
@@ -101,9 +103,6 @@ SOFTWARE.
 <a href="https://github.com/inaxia"><img src="https://avatars1.githubusercontent.com/u/73075856?s=200&v=4" width=150px height=150px /></a>    
   
  Thank you to everyone who contributed ✨💥
- <a href="https://github.com/inaxia/hashcode_web/graphs/contributors">
-  <img src="https://github.com/inaxia/hashcode_web/graphs/contributors" />
-</a>
 
 
 ## Support
