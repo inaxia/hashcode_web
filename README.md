@@ -59,6 +59,12 @@ It can't get better then this, your pull request will be appreciated by the comm
 
 >If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
+## Open Source Contests
+
+### KHARAGPUR WINTER OF CODE (KWOC'20)
+<div >
+<img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" alt="kwoc20" height="300" width="300"/>
+  </div>
 
 
 ## License
