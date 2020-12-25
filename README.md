@@ -3,15 +3,9 @@
     <h2 align="center">discover best courses for the best  learning</h2>
 </p>
 
-
-<p align="center">
-    <img alt="Html" src="https://img.shields.io/badge/html-darkblue?&style=for-the-badge"></a>
-    <img alt="Css" src="https://img.shields.io/badge/css-darkblue?&style=for-the-badge"></a>
-    <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-darkblue?&logo=javascript&style=for-the-badge"></a>
-</p>
-
-
-## Chat with us
+[![GitHub stars](https://img.shields.io/github/stars/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
+[![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
 [![Gitter](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
@@ -20,9 +14,6 @@ We got the inspiration of this idea with the help of our fellow friends who want
 
 **HashCode** is a web and app based platform where the we provide the **best-handpicked courses** from the internet at one place of different branches. Students who will use the platform can view **various courses** and test their knowledge.
 
-[![GitHub stars](https://img.shields.io/github/stars/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
-[![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)
 
 ## Installation
 **You need to do changes only in `develop` branch**<br>
