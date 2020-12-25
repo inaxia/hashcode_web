@@ -28,9 +28,17 @@ We got the inspiration of this idea with the help of our fellow friends who want
 5. Open any browser, in new tab enter a url `https://localhost:<port_number>/` like `http://localhost:3000/`
 
 
-## Visual
+## Project Visual
+Main page of the project
+
 <img src="assets/readme_data/ss1.jpg" widht=100%><br>
+
+Courses outlook
+
 <img src="assets/readme_data/ss2.jpg" width=100%><br>
+
+page view of courses content
+
 <img src="assets/readme_data/ss3.jpg" width=100%><br>
 
 
