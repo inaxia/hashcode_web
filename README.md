@@ -6,8 +6,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
 [![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
-![Github PRs](https://img.shields.io/github/issues-pr/tejaswini22199/KnowledgeShare)  
-![Github PRs](https://img.shields.io/github/issues-pr-closed/tejaswini22199/KnowledgeShare)
+![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web)  
+![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web)
 [![Gitter](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Visit project : http://hashcode-web.herokuapp.com/
