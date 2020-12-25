@@ -45,6 +45,17 @@ We got the inspiration of this idea with the help of our fellow friends who want
 
 ## Community
 **[Code of Conduct](https://github.com/inaxia/attendance_using_face_recognition/blob/master/CODE_OF_CONDUCT.md)**<br>
+
+## Contribution
+
+Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
+
+ 1. **Report a bug** <br>
+ If you think you have encountered an issue, and we should know about it, feel free to report it [here](https://github.com/inaxia/hashcode_web/issues/new) and we will take care of it.
+
+ 2. **Create a pull request** <br>
+It can't get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here](https://github.com/inaxia/hashcode_web/issues) and make a pull request.
+ 
 **[Contributing to Inaxia](https://github.com/inaxia/attendance_using_face_recognition/blob/master/CONTRIBUTING.md)**
 
 >If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
