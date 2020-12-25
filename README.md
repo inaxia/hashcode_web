@@ -14,6 +14,10 @@ We got the inspiration of this idea with the help of our fellow friends who want
 
 **HashCode** is a web and app based platform where the we provide the **best-handpicked courses** from the internet at one place of different branches. Students who will use the platform can view **various courses** and test their knowledge.
 
+## web stack
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Installation
 **You need to do changes only in `develop` branch**<br>
@@ -96,3 +100,5 @@ SOFTWARE.
 ## Support
 ![built with love](https://forthebadge.com/images/badges/built-with-love.svg)<br>
 **If you like our project, don't forget to give it a ⭐**
+
+#### All the Best!🥇
