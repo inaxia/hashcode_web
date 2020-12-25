@@ -9,11 +9,9 @@
 [![GitHub issues](https://img.shields.io/github/issues-closed/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
 ![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for-the-badge)  
 ![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web?style=for-the-badge)
-<a href="https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
-<img src="https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge"></a>
 
-Visit project : http://hashcode-web.herokuapp.com/
-Join in our project discussions at :[![Gitter ](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Visit project : http://hashcode-web.herokuapp.com/ </br>
+Join in our project discussions at   [![Gitter ](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## About the project
 We got the inspiration of this idea with the help of our fellow friends who wanted to have good knowledge as well as relevant skills in different **Programming languages** and **frameworks**. They wanted a single platform to access the **best resources** available in the internet, so we came up with an idea to build this platform.
