@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=FFFFFF" alt="website title image"></a>
+    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=00BFF" alt="website title image"></a>
     <h2 align="center">discover best courses for the best  learning</h2>
 </p>
 
@@ -7,8 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
 [![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
 [![GitHub issues](https://img.shields.io/github/issues-closed/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
-
-![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for -the-badge)  
+![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for-the-badge)  
 ![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web?style=for-the-badge)
 [![Gitter](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
