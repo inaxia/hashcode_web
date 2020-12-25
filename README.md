@@ -9,7 +9,8 @@
 [![GitHub issues](https://img.shields.io/github/issues-closed/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
 ![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for-the-badge)  
 ![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web?style=for-the-badge)
-[![Gitter ](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<a href="https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+<img src="https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge"></a>
 
 Visit project : http://hashcode-web.herokuapp.com/
 Join in our project discussions at :[![Gitter ](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
