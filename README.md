@@ -1,16 +1,14 @@
 <p align="center">
-    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=00BFFF" alt="website title image"></a>
+    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=#FFFFFF" alt="website title image"></a>
     <h2 align="center">discover best courses for the best  learning</h2>
 </p>
 
 [![GitHub stars](https://img.shields.io/github/stars/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/network)
 [![GitHub issues](https://img.shields.io/github/issues/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
-[![GitHub issues](https://img.shields.io/github/issues-closed/inaxia/hashcode_web?style=for-the-badge)](https://github.com/inaxia/hashcode_web/issues)  
-![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for-the-badge)  
-![Github PRs](https://img.shields.io/github/issues-pr-closed/inaxia/hashcode_web?style=for-the-badge)
+![Github PRs](https://img.shields.io/github/issues-pr/inaxia/hashcode_web?style=for-the-badge)
 
-Visit project : http://hashcode-web.herokuapp.com/ </br>
+Visit website : http://hashcode-web.herokuapp.com/ </br>
 Join in our project discussions at   [![Gitter ](https://img.shields.io/badge/gitter-red?&logo=gitter&style=for-the-badge)](https://gitter.im/inaxia-group/hashcode-web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## About the project
@@ -18,7 +16,7 @@ We got the inspiration of this idea with the help of our fellow friends who want
 
 **HashCode** is a web and app based platform where the we provide the **best-handpicked courses** from the internet at one place of different branches. Students who will use the platform can view **various courses** and test their knowledge.
 
-## web stack
+## Web stack
 - HTML
 - CSS
 - JAVASCRIPT
@@ -45,7 +43,7 @@ Courses outlook
 
 <img src="assets/readme_data/ss2.jpg" width=100%><br>
 
-page view of courses content
+Page view of courses content
 
 <img src="assets/readme_data/ss3.jpg" width=100%><br>
 
