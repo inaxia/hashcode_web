@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=#FFFFFF" alt="website title image"></a>
+    <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=E2336B&height=120&section=header&text=hashcode&fontSize=80&fontAlignY=55&fontColor=0xFFFFFF" alt="website title image"></a>
     <h2 align="center">discover best courses for the best  learning</h2>
 </p>
 
