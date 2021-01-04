@@ -27,7 +27,6 @@ body {
 .namaste{
   width:20rem;
   padding:1rem;
-  margin-left: 40%;
 }
 
 
@@ -189,6 +188,22 @@ ul.text-center{
 }
 
 
+/* Glassmorphism */
+
+.overlay-div {
+  /* width: 80%; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 2em 0;
+  background: rgba( 255, 255, 255, 0.15 );
+  box-shadow: 0 8px 32px 0 rgba(77, 84, 177, 0.37);
+  backdrop-filter: blur( 6.5px );
+  -webkit-backdrop-filter: blur( 6.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
 
 
 /* DEMO-SPECIFIC STYLES */
