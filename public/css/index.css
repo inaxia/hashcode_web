@@ -76,6 +76,10 @@ body {
   width: 100%;
 }
 
+.dropdown-item {
+  transition: all 0.3s ease;
+}
+
 /* Courses */
 #courses .jumbotron{
   margin: 1% 10%;
@@ -91,6 +95,8 @@ body {
 .card{
   background-color: #3C3F51 !important;
   color:#fff;
+  box-shadow: 5px 5px 5px 2px #1c1e29;
+  transition: all 0.1s ease;
 }
 
 .card-description{
@@ -101,13 +107,13 @@ body {
 .card-img{
   height:15rem;
   padding: 1rem 0;
-  /* border-radius: 40px !important; */
+  border-radius: 50% !important;
   /* border-radius: calc(2rem - 25px) !important; */
 }
 
 /* card-buttons */
 /* .course-btn{
-  text-align:center;
+  margin-left: 30%;
 } */
 
 /* .cdgrnd-btn{
