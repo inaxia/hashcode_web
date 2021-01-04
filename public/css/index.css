@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+
 body {
-  font-family: "Montserrat";
+  font-family: 'Open Sans', sans-serif;
   background-color: #282a34 !important;
   text-align: center;
 } 
@@ -55,13 +57,14 @@ body {
 }
 
 .nav-link {
-  font-size: 1.2rem;
-  font-family: "Monserrat-Light";
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
   margin: 1rem 0.5rem;
+  transition: all 0.2s ease;
 }
 
 .nav-link:hover {
-  background-color: #00acfc;
+  color: rgb(255, 255, 255);
 }
 
 #title .jumbotron{
@@ -69,8 +72,8 @@ body {
 }
 
 .bg-img{
-height:40rem;
-width: 100%;
+  height:40rem;
+  width: 100%;
 }
 
 /* Courses */
@@ -78,11 +81,11 @@ width: 100%;
   margin: 1% 10%;
   background-size: cover;
   background-color: rgba(0,0,0,0) !important;
-  }
+}
 
-  #courses .jumbotron h1{
+#courses .jumbotron h1{
   color:#fff;
-  }
+}
 
 /* cards */
 .card{
@@ -119,7 +122,7 @@ width: 100%;
 }
 
 .modal-header, .modal-footer{
-background-color: #282A34;
+  background-color: #282A34;
 }
 
 .modal-body{
@@ -173,6 +176,12 @@ background-color: #282A34;
 
 .fa {
   color: #fff;
+  padding: 0 20px 0;
+  transition: all 0.2s ease;
+}
+
+.fa:hover {
+  color: #00acfc;
 }
 
 .footer-description hr {
@@ -184,12 +193,26 @@ ul.text-center{
   margin: 0 !important;
 }
 
-.list-inline-item {
-  width: 2rem;
+li.list-inline-item {
+  padding: 0 1em 0;
 }
 
+.copyright {
+  margin: 1em;
+}
 
+.copyright a{
+  color: #fff;
+  font-size: larger;
+  text-decoration: none;
+  transition: transform all 3s ease;
+}
 
+.copyright a:hover{
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
 
 /* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
@@ -236,4 +259,4 @@ ul.text-center{
 /* Decorations */
 .col-3 {
   color: #fff; 
-    }
+  }
