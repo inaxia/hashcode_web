@@ -134,11 +134,17 @@ body {
 .modal-body .list-group-item{
   background-color: #E2336B;
   color:#fff;
+  transition: 0.4s all ease;
 }
 
 .modal .list-group-item:hover{
   background-color: #FCAC46;
   color:#fff;
+}
+
+#staticBackdrop > div > div > div.modal-header > button > span {
+  color: aliceblue;
+  transition: 0.4s all ease;
 }
 
 /* scrollbar */
