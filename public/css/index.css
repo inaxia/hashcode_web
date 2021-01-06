@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+
 body {
-  font-family: "Montserrat";
+  font-family: 'Open Sans', sans-serif;
   background-color: #282a34 !important;
   text-align: center;
 } 
@@ -54,13 +56,14 @@ body {
 }
 
 .nav-link {
-  font-size: 1.2rem;
-  font-family: "Monserrat-Light";
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3rem;
   margin: 1rem 0.5rem;
+  transition: all 0.2s ease;
 }
 
 .nav-link:hover {
-  background-color: #00acfc;
+  color: rgb(255, 255, 255);
 }
 
 #title .jumbotron{
@@ -68,8 +71,12 @@ body {
 }
 
 .bg-img{
-height:40rem;
-width: 100%;
+  height:40rem;
+  width: 100%;
+}
+
+.dropdown-item {
+  transition: all 0.3s ease;
 }
 
 /* Courses */
@@ -77,16 +84,18 @@ width: 100%;
   margin: 1% 10%;
   background-size: cover;
   background-color: rgba(0,0,0,0) !important;
-  }
+}
 
-  #courses .jumbotron h1{
+#courses .jumbotron h1{
   color:#fff;
-  }
+}
 
 /* cards */
 .card{
   background-color: #3C3F51 !important;
   color:#fff;
+  box-shadow: 5px 5px 5px 2px #1c1e29;
+  transition: all 0.1s ease;
 }
 
 .card-description{
@@ -97,13 +106,13 @@ width: 100%;
 .card-img{
   height:15rem;
   padding: 1rem 0;
-  /* border-radius: 40px !important; */
+  border-radius: 50% !important;
   /* border-radius: calc(2rem - 25px) !important; */
 }
 
 /* card-buttons */
 /* .course-btn{
-  text-align:center;
+  margin-left: 30%;
 } */
 
 /* .cdgrnd-btn{
@@ -118,7 +127,7 @@ width: 100%;
 }
 
 .modal-header, .modal-footer{
-background-color: #282A34;
+  background-color: #282A34;
 }
 
 .modal-body{
@@ -130,11 +139,17 @@ background-color: #282A34;
 .modal-body .list-group-item{
   background-color: #E2336B;
   color:#fff;
+  transition: 0.4s all ease;
 }
 
 .modal .list-group-item:hover{
   background-color: #FCAC46;
   color:#fff;
+}
+
+#staticBackdrop > div > div > div.modal-header > button > span {
+  color: aliceblue;
+  transition: 0.4s all ease;
 }
 
 /* scrollbar */
@@ -172,6 +187,12 @@ background-color: #282A34;
 
 .fa {
   color: #fff;
+  padding: 0 20px 0;
+  transition: all 0.2s ease;
+}
+
+.fa:hover {
+  color: #00acfc;
 }
 
 .footer-description hr {
@@ -183,11 +204,21 @@ ul.text-center{
   margin: 0 !important;
 }
 
-.list-inline-item {
-  width: 2rem;
+li.list-inline-item {
+  padding: 0 1em 0;
 }
 
+.copyright {
+  margin: 1em;
+}
 
+.copyright a{
+  color: #fff;
+  font-size: larger;
+  text-decoration: none;
+  transition: transform all 3s ease;
+
+  
 /* Glassmorphism */
 
 .overlay-div {
@@ -205,6 +236,11 @@ ul.text-center{
   /* border: 1px solid rgba( 255, 255, 255, 0.18 ); */
 }
 
+.copyright a:hover{
+  color: #fff;
+  text-decoration: none;
+  border-bottom: 1px solid #fff;
+}
 
 /* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
@@ -251,4 +287,4 @@ ul.text-center{
 /* Decorations */
 .col-3 {
   color: #fff; 
-    }
+  }
